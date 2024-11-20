@@ -7,6 +7,6 @@
         
         🔸Interview's coding scene.
 
-## 📌Solution List
+### 📌Solution List
 
 - [ ] [1.two sum]()
