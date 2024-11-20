@@ -9,3 +9,4 @@
 
 ### 📌Solution List
 - [ ] [1.lengthOfLongestSubstring]()
+- [ ] [2.LRUCache]()
