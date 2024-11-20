@@ -8,5 +8,4 @@
         🔸Interview's coding scene.
 
 ### 📌Solution List
-
-- [ ] [1.two sum]()
+- [ ] [1.lengthOfLongestSubstring]()
