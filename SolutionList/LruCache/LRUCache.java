@@ -1,4 +1,4 @@
-package SolutionList.LRUCache;
+package SolutionList.LruCache;
 
 import java.util.HashMap;
 import java.util.Map;
