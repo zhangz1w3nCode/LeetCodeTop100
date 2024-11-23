@@ -3,7 +3,7 @@ package SolutionList.ReverseList;
 import SolutionList.BasicStruct.ListNode;
 
 public class Solution {
-    //迭代
+    //Iteration:
     public ListNode reverseList1(ListNode head) {
         ListNode pre = null;
         ListNode cur = head;
@@ -17,7 +17,7 @@ public class Solution {
     }
 
     /*
-       递归
+      Recurse:
        #1:
         1 -> 2 -> <- 3
         1 -> 2 <- 3
