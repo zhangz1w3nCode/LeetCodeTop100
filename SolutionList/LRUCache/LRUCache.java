@@ -1,3 +1,8 @@
+package SolutionList.LRUCache;
+
+import java.util.HashMap;
+import java.util.Map;
+
 class LRUCache {
 
     class Node{
@@ -5,14 +10,11 @@ class LRUCache {
         int val;
         Node next;
         Node pre;
-
         public Node(){}
-
         public Node(int key,int val){
             this.key = key;
             this.val = val;
         }
-
     }
 
     Node header;
@@ -28,7 +30,7 @@ class LRUCache {
         this.tail = new Node();
         this.header.next = tail;
         this.tail.pre = header;
-        this.map = new HashMap();
+        this.map = new HashMap<>();
     }
 
     public int get(int key) {
