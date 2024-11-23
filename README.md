@@ -1,10 +1,15 @@
 ## LeetCodeTop100📚
-🔸A leetCodeTop100 solution repo.
+### 📌Introduction
+        🔸A leetCodeTop100 solution repo.
+        
+        🔸Coding by java and golang.
 
 ### 📌Suitable for
         🔸Algorithm learning.
         
         🔸Interview's coding scene.
+        
+        🔸Java or goLang learning.
 
 ### 📌Solution List
 - [ ] [1.LengthOfLongestSubstring]()
