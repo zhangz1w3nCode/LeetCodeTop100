@@ -1,4 +1,4 @@
-package SolutionList.lengthOfLongestSubstring;
+package SolutionList.LengthOfLongestSubstring;
 
 class Solution {
     public int lengthOfLongestSubstring(String s) {
