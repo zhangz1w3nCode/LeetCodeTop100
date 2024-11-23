@@ -12,12 +12,12 @@
         🔸Java or goLang learning.
 
 ### 📌Solution List
-- [ ] [1.LengthOfLongestSubstring]()
-- [ ] [2.LruCache]()
-- [ ] [3.ReverseList]()
-- [ ] [4.TopK]()
+- [x] [1.LengthOfLongestSubstring]()
+- [x] [2.LruCache]()
+- [x] [3.ReverseList]()
+- [ ] [4.数组中的第K个最大元素]()
 - [ ] [5.K个一组翻转链表]()
-- [ ] [6.三数之和]()
+- [x] [6.threeSum]()
 - [ ] [7.最大子数组和]()
 - [ ] [8.手撕快速排序]()
 - [ ] [9.合并两个有序链表]()
