@@ -1,11 +1,10 @@
-##LeetCodeTop100📚
-💎LeetCodeTop100 Solution.
+## LeetCodeTop100📚
+🔸A leetCodeTop100 solution repo.
 
-💬Suitable for:
-  
-  🔸Algorithm learning.
-  
-  🔸Interview's coding scene.
+### 📌Suitable for
+        🔸Algorithm learning.
+        
+        🔸Interview's coding scene.
 
 ### 📌Solution List
 - [ ] [1.无重复字符的最长子串]()
@@ -80,7 +79,7 @@
 - [ ] [70.验证二叉搜索树]()
 - [ ] [71.最大正方形]()
 - [ ] [72.在排序数组中查找元素的第一个和最后一个位置]()
-- [ ] [73.用Rand7()实现Rand10()]
+- [ ] [73.用Rand7()实现Rand10()]()
 - [ ] [74.寻找峰值]()
 - [ ] [75.字符串解码]()
 - [ ] [76.搜索二维矩阵II]()
