@@ -12,7 +12,7 @@
         🔸Java or goLang learning.
 
 ### 📌Solution List
-- [x] [1.LengthOfLongestSubstring](https://github.com/zhangz1w3nCode/LeetCodeTop100/tree/main/SolutionList/LengthOfLongestSubstring))
+- [x] [1.LengthOfLongestSubstring](https://github.com/zhangz1w3nCode/LeetCodeTop100/tree/main/SolutionList/LengthOfLongestSubstring)
 - [x] [2.LruCache](https://github.com/zhangz1w3nCode/LeetCodeTop100/tree/main/SolutionList/LruCache)
 - [x] [3.ReverseList](https://github.com/zhangz1w3nCode/LeetCodeTop100/tree/main/SolutionList/ReverseList)
 - [ ] [4.数组中的第K个最大元素]()
