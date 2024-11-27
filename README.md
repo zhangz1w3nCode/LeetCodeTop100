@@ -28,7 +28,7 @@
 - [ ] [14.岛屿数量]()
 - [ ] [15.买卖股票的最佳时机]()
 - [ ] [16.全排列]()
-- [ ] [17.有效的括号]()
+- [x] [17.IsValid](https://github.com/zhangz1w3nCode/LeetCodeTop100/tree/main/SolutionList/IsValid)
 - [ ] [18.合并两个有序数组]()
 - [ ] [19.二叉树的锯齿形层次遍历]()
 - [ ] [20.二叉树的最近公共祖先]()
