@@ -1,6 +1,6 @@
 package SolutionList.ReverseList;
 
-import SolutionList.BasicStruct.ListNode;
+import SolutionList.BasicDataStruct.ListNode;
 
 public class Solution {
 

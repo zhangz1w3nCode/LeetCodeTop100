@@ -1,4 +1,4 @@
-package SolutionList.BasicStruct;
+package SolutionList.BasicDataStruct;
 
 public class ListNode {
     public int val;
