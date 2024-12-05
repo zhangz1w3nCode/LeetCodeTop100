@@ -1,4 +1,4 @@
-package SolutionList.MaxProfit;
+package SolutionList.MaxProfit_I;
 
 class Solution {
     public int maxProfit(int[] prices) {
