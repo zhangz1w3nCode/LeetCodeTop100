@@ -19,7 +19,7 @@
 - [ ] [5.K个一组翻转链表]()
 - [x] [6.ThreeSum(三数之和)](https://github.com/zhangz1w3nCode/LeetCodeTop100/tree/main/SolutionList/ThreeSum)
 - [x] [7.MaxSubArray(最大子序和)](https://github.com/zhangz1w3nCode/LeetCodeTop100/tree/main/SolutionList/MaxSubArray)
-- [ ] [8.快速排序]()
+- [ ] [8.QuickSort(快速排序)](https://github.com/zhangz1w3nCode/LeetCodeTop100/tree/main/SolutionList/Sort)
 - [x] [9.MergeTwoLists(合并两个有序链表)](https://github.com/zhangz1w3nCode/LeetCodeTop100/tree/main/SolutionList/MergeTwoLists)
 - [x] [10.LongestPalindrome(最长回文子串)](https://github.com/zhangz1w3nCode/LeetCodeTop100/tree/main/SolutionList/LongestPalindrome)
 - [x] [11.LevelOrder(二叉树的层序遍历)](https://github.com/zhangz1w3nCode/LeetCodeTop100/tree/main/SolutionList/LevelOrder)
